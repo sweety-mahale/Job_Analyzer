@@ -4,5 +4,3 @@ numpy
 matplotlib
 seaborn
 helper 
-combinations
-Counter
